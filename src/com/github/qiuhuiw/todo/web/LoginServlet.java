@@ -1,4 +1,4 @@
-package com.github.qiuhuiw.todo;
+package com.github.qiuhuiw.todo.web;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

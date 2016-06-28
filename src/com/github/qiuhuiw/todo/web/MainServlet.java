@@ -1,4 +1,4 @@
-package com.github.qiuhuiw.todo;
+package com.github.qiuhuiw.todo.web;
 
 /**
  * Created by emily on 16-6-2.
